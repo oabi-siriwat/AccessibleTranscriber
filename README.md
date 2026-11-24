@@ -26,7 +26,9 @@ The file is not signed. Windows SmartScreen may warn that it does not know the p
 2. Press Alt+T to start listening, and speak. The text appears in the Transcript box.
 3. Press Alt+T again to stop, then Alt+S to save the text as a file.
 
-Alt+O opens a sound or video file to transcribe. Alt+G opens the settings: the menu language (Thai or English), reading new text aloud, a time before each line, numbers as digits, and how long a pause makes a space or a new line. Alt+H opens the full help inside the program.
+Alt+O opens a sound or video file to transcribe. Alt+G opens the settings: the menu language (Thai or English), reading new text aloud, a time before each line, numbers as digits, removing fillers such as เอ่อ อ่า อืม, the word list, and how long a pause makes a space or a new line.
+
+The word list (Edit word list in Settings) fixes words the program often gets wrong. Write one word per line as misheard=right. It comes with common English words that the model writes in Thai letters, for example ฟิตแบค=feedback, so they come out in English. Put # before a line to stop that word changing. Alt+H opens the full help inside the program.
 
 ## Updates
 
