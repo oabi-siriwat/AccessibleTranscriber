@@ -1,0 +1,17 @@
+Copyright (c) 2026 Oabi. All rights reserved.
+
+You may use this program for free, at home or at work.
+
+You may share copies of this program with others, as long as the files are not changed and you do not charge for them.
+
+You may not sell this program, change its files, or say that it is your own work.
+
+You may not reverse engineer, decompile or disassemble this program, except where the law allows it despite this limit.
+
+THIS PROGRAM IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. YOU USE IT AT YOUR OWN RISK. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGE OR OTHER LIABILITY ARISING FROM THE USE OF THIS PROGRAM.
+
+Parts made by others keep their own licences, and the limits above do not apply to them:
+
+- Typhoon ASR Real-Time, by Typhoon (SCB 10X), licence CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). The program uses an int8 ONNX conversion of the model (nueyprap/typhoon-asr-realtime-int8-onnx).
+- Silero VAD, by Silero Team, licence MIT.
+- The Thai word list from PyThaiNLP, licence CC0.
