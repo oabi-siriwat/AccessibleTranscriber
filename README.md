@@ -10,7 +10,7 @@ It is made for screen reader users. The window uses standard Windows controls, e
 
 Download the latest version: [AccessibleTranscriber.zip](https://github.com/oabi-siriwat/AccessibleTranscriber/releases/latest/download/AccessibleTranscriber.zip)
 
-This link always gives the newest version. Extract the zip: it holds an AccessibleTranscriber folder with `AccessibleTranscriber.exe` and the licence. Open `AccessibleTranscriber.exe` from that folder, not from inside the zip. It is one file of about 200 MB, because the speech model is inside it. It needs no installing.
+This link always gives the newest version. Extract the zip: it holds an AccessibleTranscriber folder with `AccessibleTranscriber.exe` and the English and Thai manuals (`AccessibleTranscriber_README.txt`, `AccessibleTranscriber_README_TH.txt`). Open `AccessibleTranscriber.exe` from that folder, not from inside the zip. It is one file of about 200 MB, because the speech model is inside it. It needs no installing.
 
 The file is not signed. Windows SmartScreen may warn that it does not know the publisher. Choose More info, then Run anyway.
 
@@ -30,7 +30,7 @@ Alt+O opens a sound or video file to transcribe. Alt+G opens the settings: the m
 
 ## Updates
 
-Each time it opens, the program checks for a newer version. When there is one, it asks first, then downloads it, checks the file and restarts. When there is none, it says nothing. Settings (Alt+G) also has a Check for update button.
+Each time it opens, the program checks for a newer version. When there is one, it asks first, then downloads it, checks the file and restarts. When there is none, it says nothing. While the update downloads, there is a beep on every percent, the percentage is said every 10 seconds, and Space says the percentage and the time left. Settings (Alt+G) also has a Check for update button.
 
 ## Credits
 
