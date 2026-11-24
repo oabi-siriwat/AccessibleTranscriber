@@ -2,7 +2,7 @@
 
 Turns Thai speech into text, live from a microphone or from the computer's own sound, or from a sound or video file. Everything runs on your computer: no internet and no account are needed.
 
-It is made for screen reader users. The window uses standard Windows controls, every button has an Alt key, and NVDA reads each new piece of text as soon as the speaker pauses.
+It is made for screen reader users. The window uses standard Windows controls, every button has a Ctrl key, for example Ctrl+O opens a file, and NVDA reads each new piece of text as soon as the speaker pauses.
 
 คู่มือภาษาไทย: [README.th.md](README.th.md)
 
@@ -22,17 +22,17 @@ The file is not signed. Windows SmartScreen may warn that it does not know the p
 
 ## How to use it
 
-1. Choose the input (Alt+I): a microphone or the computer sound.
-2. Press Alt+T to start listening, and speak. The text appears in the Transcript box.
-3. Press Alt+T again to stop, then Alt+S to save the text as a file.
+1. Choose the input (Ctrl+I): a microphone or the computer sound.
+2. Press Ctrl+T to start listening, and speak. The text appears in the Transcript box.
+3. Press Ctrl+T again to stop, then Ctrl+S to save the text as a file.
 
-Alt+O opens a sound or video file to transcribe. Alt+G opens the settings: the menu language (Thai or English), reading new text aloud, a time before each line, numbers as digits, removing fillers such as เอ่อ อ่า อืม, the word list, and how long a pause makes a space or a new line.
+Ctrl+O opens a sound or video file to transcribe. When it is done, the text is saved by itself as a .txt with the same name, in the same folder as the sound file (an existing file is never overwritten). Ctrl+G opens the settings: the menu language (Thai or English), reading new text aloud, a time before each line, numbers as digits, removing fillers such as เอ่อ อ่า อืม, the word list, and how long a pause makes a space or a new line.
 
-The word list (Edit word list in Settings) fixes words the program often gets wrong. Write one word per line as misheard=right. It comes with common English words that the model writes in Thai letters, for example ฟิตแบค=feedback, so they come out in English. Put # before a line to stop that word changing. Alt+H opens the full help inside the program.
+The word list (Edit word list in Settings) fixes words the program often gets wrong. Write one word per line as misheard=right. It comes with common English words that the model writes in Thai letters, for example ฟิตแบค=feedback, so they come out in English. Put # before a line to stop that word changing. Ctrl+H opens the full help inside the program.
 
 ## Updates
 
-Each time it opens, the program checks for a newer version. When there is one, it asks first, then downloads it, checks the file and restarts. When there is none, it says nothing. While the update downloads, there is a beep on every percent, the percentage is said every 10 seconds, and Space says the percentage and the time left. Settings (Alt+G) also has a Check for update button.
+Each time it opens, the program checks for a newer version. When there is one, it asks first, then downloads it, checks the file and restarts. When there is none, it says nothing. While the update downloads, there is a beep on every percent, the percentage is said every 10 seconds, and Space says the percentage and the time left. Settings (Ctrl+G) also has a Check for update button.
 
 ## Credits
 
