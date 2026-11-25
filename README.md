@@ -26,13 +26,13 @@ The file is not signed. Windows SmartScreen may warn that it does not know the p
 2. Press Ctrl+T to start listening, and speak. The text appears in the Transcript box.
 3. Press Ctrl+T again to stop, then Ctrl+S to save the text as a file.
 
-Ctrl+O opens a sound or video file to transcribe. When it is done, the text is saved by itself as a .txt with the same name, in the same folder as the sound file (an existing file is never overwritten). While a file is transcribed, the window shows only a status box with the file, the percentage and the time left, and only three keys work: Space says the progress, F5 the status, Escape stops (it asks first). Ctrl+comma opens the settings: the menu language (Thai or English), reading new text aloud, a time before each line, numbers as digits, removing fillers such as เอ่อ อ่า อืม, the word list, and how long a pause makes a space or a new line.
+Ctrl+O opens a sound or video file to transcribe. When it is done, the text is saved by itself as a .txt with the same name, in the same folder as the sound file (an existing file is never overwritten). Ctrl+G opens the settings: the menu language (Thai or English), reading new text aloud, a time before each line, numbers as digits, removing fillers such as เอ่อ อ่า อืม, the word list, and how long a pause makes a space or a new line.
 
 The word list (Edit word list in Settings) fixes words the program often gets wrong. Write one word per line as misheard=right. It comes with common English words that the model writes in Thai letters, for example ฟิตแบค=feedback, so they come out in English. Put # before a line to stop that word changing. Ctrl+H opens the full help inside the program.
 
 ## Updates
 
-Each time it opens, the program checks for a newer version. When there is one, it asks first, then downloads it, checks the file and restarts. When there is none, it says nothing. While the update downloads, there is a beep on every percent and the percentage is said every 10 seconds; the window shows only a status box, Space says the percentage and the time left, F5 the status, and Escape stops the download (it asks first). Settings (Ctrl+comma) also has a Check for update button.
+Each time it opens, the program checks for a newer version. When there is one, it asks first, then downloads it, checks the file and restarts. When there is none, it says nothing. While the update downloads, there is a beep on every percent, the percentage is said every 10 seconds, and Space says the percentage and the time left. Settings (Ctrl+G) also has a Check for update button.
 
 ## Credits
 
